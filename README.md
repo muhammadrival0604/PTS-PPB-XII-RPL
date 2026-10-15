@@ -26,7 +26,7 @@ melakukan pengujian REST API untuk memastikan sistem dapat:
 6. Menganalisis kesalahan pada pengujian API.
 
 Pengujian dilakukan menggunakan **MockAPI** dan
-**Postman atau ReqBin**.
+**Postman atau httppie**.
 
 ---
 
